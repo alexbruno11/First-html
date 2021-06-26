@@ -1,5 +1,5 @@
 # First-html
-<img src="./assets/post2.png" alt="exemplo imagem">
+<img src="./assets/post2.png" alt="exemplo imagem"> <br>
 Resultado do primeiro projeto!
 
 
@@ -28,9 +28,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://www.linkedin.com/feed/">
         <img src="./assets/250x250.png
-        " width="125px"/><br>
+        " width="100px"/><br>
         <sub>
           <b>Alex Bruno</b>
         </sub>
@@ -38,13 +38,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     
 </table>
 
-
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
